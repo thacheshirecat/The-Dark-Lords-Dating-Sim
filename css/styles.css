@@ -1,0 +1,80 @@
+img {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.initial-hidden {
+  display:none;
+}
+#profiles {
+  display: table;
+}
+.col-md-4 {
+  display: table-cell;
+}
+.message-box {
+
+      /*display: none;*/
+      /*width: 400px;*/
+
+      background-color: white;
+      opacity: .9;
+      z-index: 2;
+      cursor: pointer;
+      border: solid;
+  }
+
+.profile {
+border: solid;
+width: 400px;
+padding: 20px;
+}
+
+.messageButton {
+  float: right;
+}
+
+#test {
+  display: none;
+}
+#test1 {
+  display: none;
+}
+#test2 {
+  display: none;
+}
+
+.newMessage {
+  /*display: none;*/
+  float: right;
+}
+.box1 {
+  text-align: right;
+}
+.profile-h2 {
+  text-align: center;
+}
+.pickUp {
+  display: none;
+}
+.dateLoc {
+  display: none;
+}
+.doesNothing {
+  display: none;
+}
+.sendMsg {
+  text-align: left;
+}
+p#answer1 {
+  display: none;
+  text-align: left;
+}
+p#answer2 {
+  display: none;
+  text-align: left;
+}
+p#answer3 {
+  display: none;
+  text-align: left;
+}
